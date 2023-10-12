@@ -104,7 +104,7 @@
 |<img src="https://user-images.githubusercontent.com/110921798/216306152-bcccdea4-9a5e-477a-a7c7-77e84a3fd43e.png" width="150px" />|<img src="https://user-images.githubusercontent.com/110921798/216306669-aa1ac13c-2128-4fd1-9027-d6917eda4c3e.png" width="150px" />|<img src="https://user-images.githubusercontent.com/110921798/216306673-2927e119-56e9-43ed-a049-0df8cc4a29a6.png" width="150px"/>|<img src="https://user-images.githubusercontent.com/110921798/216306679-6f27ae43-8995-4b3d-b53e-e9a13769b27c.png" width="150px" />|<img src="https://user-images.githubusercontent.com/110921798/216306682-713b4972-fa6e-4dac-9026-f32ea7e91963.png" width="150px"/>|<img src="https://user-images.githubusercontent.com/110921798/216306660-e4c7ec7f-703c-4e69-bac4-bc3a782df13d.png" width="150px" />|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[이민훈](https://github.com/lmimoh)|[강래헌](https://github.com/kanglaeheon)|[장은지](https://github.com/ohmegle)|[김태현](https://github.com/taebong98)|[김혜인](https://github.com/gimhae-person)|[한대호](https://github.com/oheadnah)
-|FE 팀장|FE 팀원|FE 팀원|BE 부팀장|BE 팀원|BE 팀원|
+|FE 팀장|FE 팀원|FE 팀원|BE 팀원|BE 팀원|BE 팀원|
 
 <br />
 
